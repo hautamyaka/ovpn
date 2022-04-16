@@ -1,0 +1,13 @@
+Host vpn
+   # Hetzner, Helsinki 
+   HostName 135.181.146.237
+   User sammy
+   Port 22
+   IdentityFile ~/.ssh/id_rsa
+
+
+Host *
+   AddKeysToAgent yes
+   IgnoreUnknown UseKeychain
+   UseKeychain yes
+

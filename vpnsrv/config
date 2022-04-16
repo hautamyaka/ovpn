@@ -1,0 +1,22 @@
+#Host ca	
+#   HostName 157.230.102.131
+#   User sammy 
+#   Port 22
+#   IdentityFile ~/.ssh/id_rsa_do
+
+Host caof
+   HostName 31.15.89.107
+   User sammy
+   Port 2201
+   IdentityFile ~/.ssh/id_rsa_ubuntu_office
+
+
+
+
+
+Host * 
+   AddKeysToAgent yes
+   IgnoreUnknown UseKeychain
+   UseKeychain yes
+
+
