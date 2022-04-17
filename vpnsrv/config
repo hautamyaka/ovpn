@@ -18,5 +18,3 @@ Host *
    AddKeysToAgent yes
    IgnoreUnknown UseKeychain
    UseKeychain yes
-
-
