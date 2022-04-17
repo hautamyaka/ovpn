@@ -1,6 +1,6 @@
 Host vpn
    # Hetzner, Helsinki 
-   HostName 135.181.146.237
+   HostName XXX.XXX.XXX.XXX
    User sammy
    Port 22
    IdentityFile ~/.ssh/id_rsa
