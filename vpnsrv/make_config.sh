@@ -24,4 +24,3 @@ cat ${BASE_CONFIG} \
 else
     echo "Не задано имя клиента"
 fi
-
