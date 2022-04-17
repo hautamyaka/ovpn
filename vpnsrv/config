@@ -1,16 +1,14 @@
 #Host ca	
-#   HostName 157.230.102.131
+#   HostName XXX.XXX.XXX.XXX
 #   User sammy 
 #   Port 22
-#   IdentityFile ~/.ssh/id_rsa_do
+#   IdentityFile ~/.ssh/id_rsa
 
 Host caof
-   HostName 31.15.89.107
+   HostName XXX.XXX.XXX.XXX
    User sammy
    Port 2201
-   IdentityFile ~/.ssh/id_rsa_ubuntu_office
-
-
+   IdentityFile ~/.ssh/id_rsa_more
 
 
 
