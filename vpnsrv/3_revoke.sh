@@ -9,4 +9,3 @@ then
 else
    echo "Файл 'crl.pem' не найден..."
 fi
-
